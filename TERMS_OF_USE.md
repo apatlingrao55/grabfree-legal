@@ -1,9 +1,9 @@
 # Terms of Use
 
-**Giveaway App**
-**Last Updated: February 11, 2026**
+**GrabFree App**
+**Last Updated: March 2, 2026**
 
-Please read these Terms of Use ("Terms") carefully before using the Giveaway mobile application ("App") operated by Giveaway ("we", "us", "our"). By accessing or using the App, you agree to be bound by these Terms.
+Please read these Terms of Use ("Terms") carefully before using the GrabFree mobile application ("App") operated by GrabFree ("we", "us", "our"). By accessing or using the App, you agree to be bound by these Terms.
 
 ---
 
@@ -20,7 +20,7 @@ Your use of the App is entirely voluntary and at your own discretion. No one is 
 
 ## 2. Description of Service
 
-Giveaway is a community-based platform that allows users to:
+GrabFree is a community-based platform that allows users to:
 
 - **Give away items** they no longer need by creating listings with descriptions, photos, and location information
 - **Claim items** offered by other users in their area
@@ -80,7 +80,7 @@ You agree to:
 You agree NOT to:
 
 - List prohibited, illegal, hazardous, or recalled items
-- Sell items or request payment (this is a free giveaway platform)
+- Sell items or request payment (this is a free sharing platform)
 - Create fake or misleading listings
 - Harass, threaten, or abuse other users
 - Post spam, advertisements, or promotional content
@@ -184,7 +184,7 @@ We may terminate or suspend your access immediately, without prior notice, for c
 
 ### 11.1 App Content
 
-The App, its original content, features, and functionality are owned by Giveaway and are protected by applicable intellectual property laws.
+The App, its original content, features, and functionality are owned by GrabFree and are protected by applicable intellectual property laws.
 
 ### 11.2 User Content
 
@@ -196,11 +196,11 @@ Photos you upload are processed (resized, compressed, format-converted) and stor
 
 ## 12. DISCLAIMERS AND NO WARRANTIES
 
-**PLEASE READ THIS SECTION CAREFULLY. IT LIMITS THE OBLIGATIONS AND LIABILITY OF GIVEAWAY.**
+**PLEASE READ THIS SECTION CAREFULLY. IT LIMITS THE OBLIGATIONS AND LIABILITY OF GRABFREE.**
 
 ### 12.1 No Warranty — Complete Disclaimer
 
-**THE APP IS PROVIDED ON A STRICT "AS IS", "AS AVAILABLE", AND "WITH ALL FAULTS" BASIS. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, GIVEAWAY EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING BUT NOT LIMITED TO:**
+**THE APP IS PROVIDED ON A STRICT "AS IS", "AS AVAILABLE", AND "WITH ALL FAULTS" BASIS. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, GRABFREE EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING BUT NOT LIMITED TO:**
 
 - **IMPLIED WARRANTIES OF MERCHANTABILITY**
 - **IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE**
@@ -211,7 +211,7 @@ Photos you upload are processed (resized, compressed, format-converted) and stor
 - **WARRANTIES THAT THE APP WILL BE ACCURATE, RELIABLE, COMPLETE, OR TIMELY**
 - **WARRANTIES THAT THE APP WILL BE UNINTERRUPTED, SECURE, OR ERROR-FREE**
 
-No advice or information, whether oral or written, obtained from Giveaway or through the App, shall create any warranty not expressly stated in these Terms.
+No advice or information, whether oral or written, obtained from GrabFree or through the App, shall create any warranty not expressly stated in these Terms.
 
 ### 12.2 No Guarantees Whatsoever
 
@@ -250,7 +250,7 @@ We do not guarantee that the App will be available at all times, uninterrupted, 
 
 ### 12.6 Community Moderation
 
-Community moderation features (voting, flagging, quarantine review) are operated by users, not by Giveaway. **We make no guarantee that moderation decisions will be fair, accurate, timely, or consistent.** We are not liable for any action taken or not taken by community moderators or the automated moderation system.
+Community moderation features (voting, flagging, quarantine review) are operated by users, not by GrabFree. **We make no guarantee that moderation decisions will be fair, accurate, timely, or consistent.** We are not liable for any action taken or not taken by community moderators or the automated moderation system.
 
 ### 12.7 Third-Party Services
 
@@ -262,7 +262,7 @@ The App relies on third-party services (email delivery, cloud storage, push noti
 
 ### 13.1 No Liability for Damages
 
-**GIVEAWAY, ITS DEVELOPER(S), OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, AFFILIATES, AND LICENSORS (COLLECTIVELY, "GIVEAWAY PARTIES") SHALL NOT BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY:**
+**GRABFREE, ITS DEVELOPER(S), OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, AFFILIATES, AND LICENSORS (COLLECTIVELY, "GRABFREE PARTIES") SHALL NOT BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY:**
 
 - **DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES**
 - **LOSS OF PROFITS, REVENUE, DATA, GOODWILL, OR ANTICIPATED SAVINGS**
@@ -270,17 +270,17 @@ The App relies on third-party services (email delivery, cloud storage, push noti
 - **COST OF SUBSTITUTE GOODS OR SERVICES**
 - **LOSS OF USE OR INTERRUPTION OF SERVICE**
 
-**ARISING FROM OR RELATED TO YOUR USE OF OR INABILITY TO USE THE APP, REGARDLESS OF THE THEORY OF LIABILITY (CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY, OR OTHERWISE), EVEN IF GIVEAWAY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.**
+**ARISING FROM OR RELATED TO YOUR USE OF OR INABILITY TO USE THE APP, REGARDLESS OF THE THEORY OF LIABILITY (CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY, OR OTHERWISE), EVEN IF GRABFREE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.**
 
 ### 13.2 Maximum Aggregate Liability
 
-**IN NO EVENT SHALL THE TOTAL AGGREGATE LIABILITY OF THE GIVEAWAY PARTIES FOR ALL CLAIMS ARISING FROM OR RELATED TO THE APP EXCEED THE GREATER OF: (A) THE AMOUNT YOU HAVE PAID TO GIVEAWAY FOR USE OF THE APP (WHICH IS $0 NZD, AS THE APP IS FREE); OR (B) $50 NZD.**
+**IN NO EVENT SHALL THE TOTAL AGGREGATE LIABILITY OF THE GRABFREE PARTIES FOR ALL CLAIMS ARISING FROM OR RELATED TO THE APP EXCEED THE GREATER OF: (A) THE AMOUNT YOU HAVE PAID TO GRABFREE FOR USE OF THE APP (WHICH IS $0 NZD, AS THE APP IS FREE); OR (B) $50 NZD.**
 
-**YOU ACKNOWLEDGE THAT THIS IS A FREE SERVICE AND THAT THE LIMITATION OF LIABILITY REFLECTS A REASONABLE AND FAIR ALLOCATION OF RISK BETWEEN YOU AND GIVEAWAY.**
+**YOU ACKNOWLEDGE THAT THIS IS A FREE SERVICE AND THAT THE LIMITATION OF LIABILITY REFLECTS A REASONABLE AND FAIR ALLOCATION OF RISK BETWEEN YOU AND GRABFREE.**
 
 ### 13.3 Specific Exclusions
 
-Without limiting the foregoing, the Giveaway Parties shall have no liability whatsoever for:
+Without limiting the foregoing, the GrabFree Parties shall have no liability whatsoever for:
 
 - Any items exchanged through the App (including defective, hazardous, stolen, or misdescribed items)
 - Any interactions between users (including in-person meetups)
@@ -294,15 +294,15 @@ Without limiting the foregoing, the Giveaway Parties shall have no liability wha
 
 ### 13.4 Essential Basis of Agreement
 
-**You acknowledge and agree that the disclaimers and limitations in Sections 12 and 13 are essential elements of these Terms, that they represent a fair and reasonable allocation of risk, and that without these limitations, Giveaway would not provide the App to you free of charge. These limitations shall apply even if any limited remedy fails of its essential purpose.**
+**You acknowledge and agree that the disclaimers and limitations in Sections 12 and 13 are essential elements of these Terms, that they represent a fair and reasonable allocation of risk, and that without these limitations, GrabFree would not provide the App to you free of charge. These limitations shall apply even if any limited remedy fails of its essential purpose.**
 
 ### 13.5 Jurisdictional Limitations
 
-Some jurisdictions do not allow the exclusion of certain warranties or the limitation of certain damages. In such jurisdictions, the liability of the Giveaway Parties shall be limited to the maximum extent permitted by applicable law. Nothing in these Terms excludes or limits liability that cannot be excluded or limited under applicable law (including, where applicable, the New Zealand Consumer Guarantees Act 1993, to the extent it applies).
+Some jurisdictions do not allow the exclusion of certain warranties or the limitation of certain damages. In such jurisdictions, the liability of the GrabFree Parties shall be limited to the maximum extent permitted by applicable law. Nothing in these Terms excludes or limits liability that cannot be excluded or limited under applicable law (including, where applicable, the New Zealand Consumer Guarantees Act 1993, to the extent it applies).
 
 ## 14. Indemnification
 
-**You agree to indemnify, defend, and hold harmless the Giveaway Parties from and against any and all claims, demands, actions, suits, proceedings, damages, losses, liabilities, costs, and expenses (including reasonable legal fees and court costs) arising from or related to:**
+**You agree to indemnify, defend, and hold harmless the GrabFree Parties from and against any and all claims, demands, actions, suits, proceedings, damages, losses, liabilities, costs, and expenses (including reasonable legal fees and court costs) arising from or related to:**
 
 - Your use of or access to the App
 - Your violation of these Terms
@@ -330,7 +330,7 @@ Some jurisdictions do not allow the exclusion of certain warranties or the limit
 - Risk of unfair or incorrect community moderation decisions
 - Risk that the App may be discontinued at any time without notice
 
-**You voluntarily assume all such risks and release the Giveaway Parties from any liability related thereto.**
+**You voluntarily assume all such risks and release the GrabFree Parties from any liability related thereto.**
 
 ## 16. Third-Party Services
 
@@ -365,18 +365,18 @@ If any provision of these Terms is found to be unenforceable or invalid, that pr
 
 ## 22. Entire Agreement
 
-These Terms, together with the Privacy Policy, constitute the entire agreement between you and Giveaway regarding your use of the App and supersede all prior agreements, understandings, and communications, whether written or oral.
+These Terms, together with the Privacy Policy, constitute the entire agreement between you and GrabFree regarding your use of the App and supersede all prior agreements, understandings, and communications, whether written or oral.
 
 ## 23. No Waiver
 
-The failure of Giveaway to enforce any right or provision of these Terms shall not constitute a waiver of that right or provision. Any waiver of any provision of these Terms will be effective only if in writing and signed by Giveaway.
+The failure of GrabFree to enforce any right or provision of these Terms shall not constitute a waiver of that right or provision. Any waiver of any provision of these Terms will be effective only if in writing and signed by GrabFree.
 
 ## 24. Contact Us
 
 If you have any questions about these Terms, please contact us at:
 
-**Email**: support-approjects@pm.me
+**Email**: dev@aiconsult.co.nz
 
 ---
 
-**BY CREATING AN ACCOUNT OR USING THE GIVEAWAY APP, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND VOLUNTARILY AGREE TO BE BOUND BY THESE TERMS OF USE, INCLUDING THE DISCLAIMERS OF WARRANTY, LIMITATIONS OF LIABILITY, ASSUMPTION OF RISK, AND INDEMNIFICATION PROVISIONS CONTAINED HEREIN. YOU UNDERSTAND THAT THIS IS A FREE SERVICE PROVIDED WITH NO GUARANTEES WHATSOEVER.**
+**BY CREATING AN ACCOUNT OR USING THE GRABFREE APP, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND VOLUNTARILY AGREE TO BE BOUND BY THESE TERMS OF USE, INCLUDING THE DISCLAIMERS OF WARRANTY, LIMITATIONS OF LIABILITY, ASSUMPTION OF RISK, AND INDEMNIFICATION PROVISIONS CONTAINED HEREIN. YOU UNDERSTAND THAT THIS IS A FREE SERVICE PROVIDED WITH NO GUARANTEES WHATSOEVER.**

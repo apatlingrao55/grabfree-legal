@@ -1,9 +1,9 @@
 # End User License Agreement (EULA)
 
-**Giveaway App**
-**Last Updated: February 13, 2026**
+**GrabFree App**
+**Last Updated: March 2, 2026**
 
-This End User License Agreement ("Agreement") is a legally binding contract between you ("User", "you", "your") and Giveaway ("Licensor", "we", "us", "our") governing your use of the Giveaway mobile application ("App"). This Agreement supplements our [Terms of Use](TERMS_OF_USE.md) and [Privacy Policy](PRIVACY_POLICY.md).
+This End User License Agreement ("Agreement") is a legally binding contract between you ("User", "you", "your") and GrabFree ("Licensor", "we", "us", "our") governing your use of the GrabFree mobile application ("App"). This Agreement supplements our [Terms of Use](TERMS_OF_USE.md) and [Privacy Policy](PRIVACY_POLICY.md).
 
 **BY DOWNLOADING, INSTALLING, OR USING THE APP, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THIS AGREEMENT. IF YOU DO NOT AGREE TO THIS AGREEMENT, DO NOT DOWNLOAD, INSTALL, OR USE THE APP.**
 
@@ -20,7 +20,7 @@ Subject to the terms and conditions of this Agreement, we grant you a limited, n
 This license permits you to:
 
 - Install the App on your personal mobile device
-- Access and use the App's features as intended, including listing items for giveaway, claiming items, messaging other users, and participating in community boards
+- Access and use the App's features as intended, including listing items for free, claiming items, messaging other users, and participating in community boards
 - Upload photos and content for the purpose of creating item listings and community participation
 
 ### 1.3 Free of Charge
@@ -36,7 +36,7 @@ You agree NOT to:
 - **Copy or Distribute**: Copy, redistribute, publish, or make the App available to any third party, including by making the App available on a network where it could be used by multiple devices at the same time
 - **Modify**: Modify, translate, adapt, create derivative works from, or reverse-engineer, disassemble, decompile, or otherwise attempt to derive the source code of the App
 - **Circumvent**: Bypass, disable, or interfere with any security features, access controls, rate limits, or technical limitations of the App
-- **Commercial Use**: Use the App for any commercial purpose, revenue-generating activity, or to sell items (this is a free giveaway platform only)
+- **Commercial Use**: Use the App for any commercial purpose, revenue-generating activity, or to sell items (this is a free sharing platform only)
 - **Automated Access**: Use bots, scripts, scrapers, or other automated means to access the App, collect data, or interact with the App's systems
 - **Impairment**: Use the App in any way that could damage, disable, overburden, or impair our servers or networks, or interfere with any other party's use of the App
 - **Unlawful Use**: Use the App for any unlawful purpose or in violation of any applicable local, national, or international law or regulation
@@ -49,11 +49,11 @@ You agree NOT to:
 
 ### 3.1 Ownership
 
-The App, including all code, design, graphics, interfaces, features, functionality, documentation, and associated intellectual property rights, is and remains the exclusive property of Giveaway. This Agreement does not transfer any ownership rights to you.
+The App, including all code, design, graphics, interfaces, features, functionality, documentation, and associated intellectual property rights, is and remains the exclusive property of GrabFree. This Agreement does not transfer any ownership rights to you.
 
 ### 3.2 Trademarks
 
-The Giveaway name, logo, and all related names, logos, product and service names, designs, and slogans are trademarks of Giveaway. You are granted no right or license to use any such trademarks.
+The GrabFree name, logo, and all related names, logos, product and service names, designs, and slogans are trademarks of GrabFree. You are granted no right or license to use any such trademarks.
 
 ### 3.3 User Content
 
@@ -136,7 +136,7 @@ Upon termination:
 
 ### 8.1 "As Is" Basis
 
-**THE APP IS PROVIDED ON AN "AS IS", "AS AVAILABLE", AND "WITH ALL FAULTS" BASIS. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, GIVEAWAY EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING BUT NOT LIMITED TO:**
+**THE APP IS PROVIDED ON AN "AS IS", "AS AVAILABLE", AND "WITH ALL FAULTS" BASIS. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, GRABFREE EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING BUT NOT LIMITED TO:**
 
 - **IMPLIED WARRANTIES OF MERCHANTABILITY**
 - **FITNESS FOR A PARTICULAR PURPOSE**
@@ -167,7 +167,7 @@ We make no guarantees regarding:
 
 **TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW:**
 
-**GIVEAWAY, ITS DEVELOPER(S), OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, AFFILIATES, AND LICENSORS (COLLECTIVELY, "GIVEAWAY PARTIES") SHALL NOT BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO:**
+**GRABFREE, ITS DEVELOPER(S), OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, AFFILIATES, AND LICENSORS (COLLECTIVELY, "GRABFREE PARTIES") SHALL NOT BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO:**
 
 - Loss of profits, revenue, data, goodwill, or anticipated savings
 - Personal injury or property damage arising from your use of the App or interactions with other users
@@ -175,7 +175,7 @@ We make no guarantees regarding:
 - Loss of use or interruption of service
 - Any matter beyond our reasonable control
 
-**IN NO EVENT SHALL THE TOTAL AGGREGATE LIABILITY OF THE GIVEAWAY PARTIES EXCEED THE GREATER OF: (A) THE AMOUNT YOU HAVE PAID TO GIVEAWAY FOR USE OF THE APP (WHICH IS $0 NZD, AS THE APP IS FREE); OR (B) $50 NZD.**
+**IN NO EVENT SHALL THE TOTAL AGGREGATE LIABILITY OF THE GRABFREE PARTIES EXCEED THE GREATER OF: (A) THE AMOUNT YOU HAVE PAID TO GRABFREE FOR USE OF THE APP (WHICH IS $0 NZD, AS THE APP IS FREE); OR (B) $50 NZD.**
 
 ### 9.1 Jurisdictional Limitations
 
@@ -185,7 +185,7 @@ Some jurisdictions do not allow the exclusion of certain warranties or limitatio
 
 ## 10. Indemnification
 
-**You agree to indemnify, defend, and hold harmless the Giveaway Parties from and against any and all claims, demands, damages, losses, liabilities, costs, and expenses (including reasonable legal fees) arising from or related to:**
+**You agree to indemnify, defend, and hold harmless the GrabFree Parties from and against any and all claims, demands, damages, losses, liabilities, costs, and expenses (including reasonable legal fees) arising from or related to:**
 
 - Your use of or access to the App
 - Your breach of this Agreement
@@ -210,7 +210,7 @@ Some jurisdictions do not allow the exclusion of certain warranties or limitatio
 - The App being discontinued at any time without notice
 - Community moderation decisions that may be unfair or incorrect
 
-**You voluntarily assume all such risks and release the Giveaway Parties from any liability related thereto.**
+**You voluntarily assume all such risks and release the GrabFree Parties from any liability related thereto.**
 
 ---
 
@@ -240,13 +240,13 @@ If any provision of this Agreement is found to be unenforceable or invalid by a 
 
 ## 15. Entire Agreement
 
-This Agreement, together with our [Terms of Use](TERMS_OF_USE.md) and [Privacy Policy](PRIVACY_POLICY.md), constitutes the entire agreement between you and Giveaway regarding the licensing and use of the App. In the event of a conflict between this Agreement and the Terms of Use, the Terms of Use shall prevail.
+This Agreement, together with our [Terms of Use](TERMS_OF_USE.md) and [Privacy Policy](PRIVACY_POLICY.md), constitutes the entire agreement between you and GrabFree regarding the licensing and use of the App. In the event of a conflict between this Agreement and the Terms of Use, the Terms of Use shall prevail.
 
 ---
 
 ## 16. No Waiver
 
-The failure of Giveaway to enforce any right or provision of this Agreement shall not constitute a waiver of that right or provision. Any waiver shall be effective only if in writing and signed by Giveaway.
+The failure of GrabFree to enforce any right or provision of this Agreement shall not constitute a waiver of that right or provision. Any waiver shall be effective only if in writing and signed by GrabFree.
 
 ---
 
@@ -254,8 +254,8 @@ The failure of Giveaway to enforce any right or provision of this Agreement shal
 
 If you have any questions about this Agreement, please contact us at:
 
-**Email**: support-approjects@pm.me
+**Email**: dev@aiconsult.co.nz
 
 ---
 
-**BY DOWNLOADING, INSTALLING, OR USING THE GIVEAWAY APP, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND VOLUNTARILY AGREE TO BE BOUND BY THIS END USER LICENSE AGREEMENT, INCLUDING THE DISCLAIMERS OF WARRANTY, LIMITATIONS OF LIABILITY, ASSUMPTION OF RISK, AND INDEMNIFICATION PROVISIONS CONTAINED HEREIN. YOU UNDERSTAND THAT THIS IS A FREE SERVICE PROVIDED WITH NO GUARANTEES WHATSOEVER.**
+**BY DOWNLOADING, INSTALLING, OR USING THE GRABFREE APP, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND VOLUNTARILY AGREE TO BE BOUND BY THIS END USER LICENSE AGREEMENT, INCLUDING THE DISCLAIMERS OF WARRANTY, LIMITATIONS OF LIABILITY, ASSUMPTION OF RISK, AND INDEMNIFICATION PROVISIONS CONTAINED HEREIN. YOU UNDERSTAND THAT THIS IS A FREE SERVICE PROVIDED WITH NO GUARANTEES WHATSOEVER.**

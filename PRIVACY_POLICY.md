@@ -1,9 +1,9 @@
 # Privacy Policy
 
-**Giveaway App**
-**Last Updated: February 11, 2026**
+**GrabFree App**
+**Last Updated: March 2, 2026**
 
-This Privacy Policy describes how Giveaway ("we", "us", "our") collects, uses, stores, and protects your personal information when you use the Giveaway mobile application ("App").
+This Privacy Policy describes how GrabFree ("we", "us", "our") collects, uses, stores, and protects your personal information when you use the GrabFree mobile application ("App").
 
 **BY CREATING AN ACCOUNT OR USING THE APP, YOU EXPRESSLY AND VOLUNTARILY OPT IN TO THIS PRIVACY POLICY AND CONSENT TO THE COLLECTION, USE, STORAGE, AND PROCESSING OF YOUR INFORMATION AS DESCRIBED HEREIN. YOUR USE OF THE APP IS ENTIRELY VOLUNTARY. IF YOU DO NOT CONSENT TO THIS POLICY, DO NOT CREATE AN ACCOUNT AND DO NOT USE THE APP.**
 
@@ -395,7 +395,7 @@ Your continued use of the App after changes are posted constitutes your acceptan
 
 ## 15. Disclaimer of Liability for Data Processing
 
-**TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, GIVEAWAY SHALL NOT BE LIABLE FOR ANY LOSS, DAMAGE, OR HARM ARISING FROM:**
+**TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, GRABFREE SHALL NOT BE LIABLE FOR ANY LOSS, DAMAGE, OR HARM ARISING FROM:**
 
 - The collection, use, or storage of your information as described in this policy
 - Any unauthorized access to or disclosure of your information despite our reasonable security measures
@@ -418,10 +418,10 @@ This Privacy Policy is governed by the laws of New Zealand, including the Privac
 
 If you have any questions, concerns, or requests regarding this Privacy Policy or your personal data, please contact us at:
 
-**Email**: support-approjects@pm.me
+**Email**: dev@aiconsult.co.nz
 
 For data access, correction, or deletion requests, please include your registered email address and a description of your request.
 
 ---
 
-**BY CREATING AN ACCOUNT OR USING THE GIVEAWAY APP, YOU ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTOOD THIS PRIVACY POLICY AND VOLUNTARILY CONSENT TO THE COLLECTION, USE, STORAGE, AND PROCESSING OF YOUR INFORMATION AS DESCRIBED HEREIN. YOU UNDERSTAND THAT THIS IS A FREE SERVICE PROVIDED WITH NO GUARANTEES REGARDING DATA SECURITY OR AVAILABILITY.**
+**BY CREATING AN ACCOUNT OR USING THE GRABFREE APP, YOU ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTOOD THIS PRIVACY POLICY AND VOLUNTARILY CONSENT TO THE COLLECTION, USE, STORAGE, AND PROCESSING OF YOUR INFORMATION AS DESCRIBED HEREIN. YOU UNDERSTAND THAT THIS IS A FREE SERVICE PROVIDED WITH NO GUARANTEES REGARDING DATA SECURITY OR AVAILABILITY.**
