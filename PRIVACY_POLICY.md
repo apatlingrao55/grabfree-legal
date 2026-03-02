@@ -191,13 +191,15 @@ When you delete your account:
 
 We use the following third-party services to operate the App:
 
-| Service | Provider | Data Shared | Purpose |
-|---------|----------|-------------|---------|
-| Email delivery | Resend | Email address, OTP codes | Sending verification emails and password reset codes |
-| Image storage | Cloudflare R2 | Item photographs | Storing and serving item images |
-| Push notifications | Expo (expo.dev) | Push token, notification content | Delivering mobile push notifications |
+| Service | Provider | Data Shared by Us | Data Collected by SDK | Purpose |
+|---------|----------|-------------------|----------------------|---------|
+| Email delivery | Resend | Email address, OTP codes | Email metadata (delivery status, bounces) | Sending verification emails and password reset codes |
+| Image storage | Cloudflare R2 | Item photographs | Request metadata (IP address, access logs) | Storing and serving item images |
+| Push notifications | Expo (expo.dev) | Push token, notification content | Device type, OS version, delivery status | Delivering mobile push notifications |
 
 These providers process data on our behalf and are bound by their respective privacy policies and data processing agreements.
+
+Under the NZ Privacy Act 2020 and the Australian Privacy Act 1988 (where applicable), we are responsible for personal information collected by third-party SDKs and services integrated into the App, even where that collection is initiated by the third-party service. Our use of these services is governed by data processing agreements where available.
 
 ### 5.2 What We Do NOT Share
 
@@ -240,6 +242,16 @@ All administrator actions are logged in an audit trail that records the administ
 ### 5.5 Legal Requirements
 
 We may disclose your information if required to do so by law or in response to valid requests by public authorities (e.g., court orders, subpoenas).
+
+### 5.6 Content Takedown Notices
+
+If you submit or are the subject of a content takedown notice (see [Terms of Use](TERMS_OF_USE.md), Section 17), we collect and retain:
+
+- Claimant contact information and takedown notice content
+- Records of notices, counter-notices, and outcomes
+- Repeat infringer tracking data
+
+This data is retained for the duration of any related dispute and for a minimum of 24 months after resolution. If a counter-notice is submitted, limited information about the claim (nature of the claim, not claimant identity) is shared with the content owner to enable them to respond. Claimant identity is not disclosed to the accused user unless required by law or with the claimant's consent.
 
 ---
 
@@ -410,11 +422,19 @@ Your continued use of the App after changes are posted constitutes your acceptan
 
 ## 16. Governing Law
 
-This Privacy Policy is governed by the laws of New Zealand, including the Privacy Act 2020. Nothing in this policy is intended to exclude or limit rights that cannot be excluded under the Privacy Act 2020.
+This Privacy Policy is governed by the laws of New Zealand, including the Privacy Act 2020. Nothing in this policy is intended to exclude or limit rights that cannot be excluded under the Privacy Act 2020 or the Australian Privacy Act 1988 (Cth) where applicable.
 
 ---
 
-## 17. Contact Us
+## 17. For Users in Australia
+
+If you are located in Australia, the Australian Privacy Principles (APPs) under the Privacy Act 1988 (Cth) may apply to our collection and handling of your personal information. Nothing in this Privacy Policy is intended to limit or exclude any right you have under the APPs.
+
+You may also lodge a privacy complaint with the Office of the Australian Information Commissioner (OAIC) at oaic.gov.au.
+
+---
+
+## 18. Contact Us
 
 If you have any questions, concerns, or requests regarding this Privacy Policy or your personal data, please contact us at:
 
