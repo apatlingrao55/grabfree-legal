@@ -130,7 +130,7 @@ Upon termination:
 
 - All rights and licenses granted to you under this Agreement shall immediately cease
 - You must cease all use of the App and delete all copies from your devices
-- Sections 3 (Intellectual Property), 8 (Disclaimers), 9 (Limitation of Liability), 10 (Indemnification), 12 (Export Compliance), and 13 (Governing Law and Dispute Resolution) shall survive termination
+- Sections 3 (Intellectual Property), 8 (Disclaimers), 9 (Limitation of Liability), 10 (Indemnification), 11 (Assumption of Risk), 12 (Export Compliance), and 13 (Governing Law and Dispute Resolution) shall survive termination
 - Your obligations under the [Acceptable Use Policy](AUP.md) survive to the extent they relate to content posted during the term
 
 ---
