@@ -1,9 +1,9 @@
 # Support
 
-**Giveaway App**
-**Last Updated: February 13, 2026**
+**GrabFree App**
+**Last Updated: March 3, 2026**
 
-This Support page provides guidance on how to use the Giveaway mobile application ("App"), answers to frequently asked questions, and information on how to contact us for assistance.
+This Support page provides guidance on how to use the GrabFree mobile application ("App"), answers to frequently asked questions, and information on how to contact us for assistance.
 
 ---
 
@@ -112,6 +112,8 @@ To claim an item listed by another user:
 | How do I request a copy of my data? | Contact us at support-approjects@pm.me with your registered email and a description of your request. |
 | How do I request permanent data removal? | Delete your account through the App, or contact us at support-approjects@pm.me to request manual deletion. |
 | Is my email visible to other users? | No. Your username is your public identifier. Your email address is never visible to other users. |
+| How do I report content that infringes my intellectual property? | Submit a takedown notice to dev@aiconsult.co.nz with the details required in our [Terms of Use](TERMS_OF_USE.md), Section 17. We will respond within 5 business days. |
+| How do I report harmful or abusive content? | Use the in-app report/flag feature, or email dev@aiconsult.co.nz. For complaints under the Harmful Digital Communications Act 2015, we will respond within 48 hours. See [Terms of Use](TERMS_OF_USE.md), Section 18. |
 
 ---
 
@@ -157,8 +159,9 @@ For more information on user safety and your responsibilities, see our [Terms of
 | Document | Description |
 |----------|-------------|
 | [Privacy Policy](PRIVACY_POLICY.md) | How we collect, use, store, and protect your personal information |
-| [Terms of Use](TERMS_OF_USE.md) | The rules and conditions for using the Giveaway App |
-| [End User License Agreement](EULA.md) | The license governing your use of the Giveaway App |
+| [Terms of Use](TERMS_OF_USE.md) | The rules and conditions for using GrabFree |
+| [Acceptable Use Policy](AUP.md) | Prohibited content, prohibited conduct, and enforcement actions |
+| [End User License Agreement](EULA.md) | The license governing your use of GrabFree |
 
 ---
 
@@ -166,7 +169,7 @@ For more information on user safety and your responsibilities, see our [Terms of
 
 | Detail | Value |
 |--------|-------|
-| App name | Giveaway |
+| App name | GrabFree |
 | Current version | 1.0 |
 | Platform | iOS and Android |
 | Price | Free |

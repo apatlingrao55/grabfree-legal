@@ -1,7 +1,7 @@
 # End User License Agreement (EULA)
 
 **GrabFree App**
-**Last Updated: March 2, 2026**
+**Last Updated: March 3, 2026**
 
 This End User License Agreement ("Agreement") is a legally binding contract between you ("User", "you", "your") and GrabFree ("Licensor", "we", "us", "our") governing your use of the GrabFree mobile application ("App"). This Agreement supplements our [Terms of Use](TERMS_OF_USE.md) and [Privacy Policy](PRIVACY_POLICY.md).
 
@@ -42,6 +42,8 @@ You agree NOT to:
 - **Unlawful Use**: Use the App for any unlawful purpose or in violation of any applicable local, national, or international law or regulation
 - **Transfer**: Rent, lease, lend, sell, transfer, assign, or sublicense the App or any rights therein to any third party
 - **Remove Notices**: Remove, alter, or obscure any copyright, trademark, or other proprietary notices contained in the App
+
+Your use of the App is also subject to our [Acceptable Use Policy](AUP.md).
 
 ---
 
@@ -128,7 +130,8 @@ Upon termination:
 
 - All rights and licenses granted to you under this Agreement shall immediately cease
 - You must cease all use of the App and delete all copies from your devices
-- Sections 3 (Intellectual Property), 8 (Disclaimers), 9 (Limitation of Liability), 10 (Indemnification), and 13 (Governing Law) shall survive termination
+- Sections 3 (Intellectual Property), 8 (Disclaimers), 9 (Limitation of Liability), 10 (Indemnification), 11 (Assumption of Risk), 12 (Export Compliance), and 13 (Governing Law and Dispute Resolution) shall survive termination
+- Your obligations under the [Acceptable Use Policy](AUP.md) survive to the extent they relate to content posted during the term
 
 ---
 
@@ -145,6 +148,8 @@ Upon termination:
 - **THAT DEFECTS WILL BE CORRECTED**
 - **THAT THE APP WILL MEET YOUR REQUIREMENTS OR EXPECTATIONS**
 
+**TO THE EXTENT THAT APPLICABLE LAW (INCLUDING THE CONSUMER GUARANTEES ACT 1993 (NZ) OR AUSTRALIAN CONSUMER LAW) IMPLIES GUARANTEES OR CONDITIONS THAT CANNOT BE EXCLUDED, GRABFREE'S LIABILITY FOR BREACH OF THOSE GUARANTEES IS LIMITED, TO THE FULLEST EXTENT PERMITTED BY LAW, TO RESUPPLYING THE SERVICES OR PAYING THE COST OF HAVING THE SERVICES RESUPPLIED.**
+
 ### 8.2 No Guarantees
 
 We make no guarantees regarding:
@@ -160,6 +165,10 @@ We make no guarantees regarding:
 ### 8.3 Service Availability
 
 **We may modify, suspend, or permanently discontinue the App at any time, for any reason, with or without notice, and without any liability to you.** The App is a free service and you have no entitlement to its continued operation.
+
+### 8.4 Statutory Guarantees
+
+**NOTHING IN THIS AGREEMENT LIMITS OR EXCLUDES ANY GUARANTEE, RIGHT, OR REMEDY WHICH CANNOT BE LIMITED OR EXCLUDED UNDER THE CONSUMER GUARANTEES ACT 1993, THE FAIR TRADING ACT 1986, THE AUSTRALIAN CONSUMER LAW, OR OTHER APPLICABLE MANDATORY LAW.**
 
 ---
 
@@ -179,7 +188,17 @@ We make no guarantees regarding:
 
 ### 9.1 Jurisdictional Limitations
 
-Some jurisdictions do not allow the exclusion of certain warranties or limitation of certain damages. In such jurisdictions, liability shall be limited to the maximum extent permitted by applicable law. Nothing in this Agreement excludes or limits liability that cannot be excluded or limited under applicable law (including, where applicable, the New Zealand Consumer Guarantees Act 1993, to the extent it applies).
+Some jurisdictions do not allow the exclusion of certain warranties or limitation of certain damages. In such jurisdictions, liability shall be limited to the maximum extent permitted by applicable law.
+
+### 9.2 Mandatory Exceptions
+
+**THE LIMITATIONS OF LIABILITY IN THIS SECTION DO NOT APPLY TO LIABILITY FOR:**
+
+**(a) DEATH OR PERSONAL INJURY CAUSED BY GRABFREE'S NEGLIGENCE;**
+**(b) FRAUD OR FRAUDULENT MISREPRESENTATION BY GRABFREE;**
+**(c) ANY LIABILITY THAT CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW, INCLUDING THE CONSUMER GUARANTEES ACT 1993 (NEW ZEALAND), THE FAIR TRADING ACT 1986 (NEW ZEALAND), OR THE AUSTRALIAN CONSUMER LAW.**
+
+**FOR USERS IN AUSTRALIA: NOTHING IN THIS AGREEMENT LIMITS ANY RIGHT YOU MAY HAVE UNDER THE AUSTRALIAN CONSUMER LAW (SCHEDULE 2 OF THE COMPETITION AND CONSUMER ACT 2010).**
 
 ---
 
@@ -228,7 +247,7 @@ This Agreement shall be governed by and construed in accordance with the laws of
 
 ### 13.2 Dispute Resolution
 
-Any disputes arising from this Agreement or your use of the App shall first be attempted to be resolved through good-faith negotiation. If negotiation fails, disputes shall be submitted to the courts of New Zealand.
+Disputes arising from this Agreement are subject to the dispute resolution process set out in Section 23 of our [Terms of Use](TERMS_OF_USE.md), which is incorporated by reference.
 
 ---
 
@@ -240,7 +259,7 @@ If any provision of this Agreement is found to be unenforceable or invalid by a 
 
 ## 15. Entire Agreement
 
-This Agreement, together with our [Terms of Use](TERMS_OF_USE.md) and [Privacy Policy](PRIVACY_POLICY.md), constitutes the entire agreement between you and GrabFree regarding the licensing and use of the App. In the event of a conflict between this Agreement and the Terms of Use, the Terms of Use shall prevail.
+This Agreement, together with our [Terms of Use](TERMS_OF_USE.md), [Privacy Policy](PRIVACY_POLICY.md), and [Acceptable Use Policy](AUP.md), constitutes the entire agreement between you and GrabFree regarding the licensing and use of the App. In the event of a conflict between this Agreement and the Terms of Use, the Terms of Use shall prevail.
 
 ---
 
